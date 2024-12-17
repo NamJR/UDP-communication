@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UDP data.props" />
+</Project>

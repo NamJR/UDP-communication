@@ -1,0 +1,32 @@
+F:\UDP data\bin\Debug\net8.0\appsettings.Development.json
+F:\UDP data\bin\Debug\net8.0\appsettings.json
+F:\UDP data\bin\Debug\net8.0\UDP data.exe
+F:\UDP data\bin\Debug\net8.0\UDP data.deps.json
+F:\UDP data\bin\Debug\net8.0\UDP data.runtimeconfig.json
+F:\UDP data\bin\Debug\net8.0\UDP data.dll
+F:\UDP data\bin\Debug\net8.0\UDP data.pdb
+F:\UDP data\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\UDP data\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\UDP data\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\UDP data\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\UDP data\obj\Debug\net8.0\UDP data.csproj.AssemblyReference.cache
+F:\UDP data\obj\Debug\net8.0\UDP data.GeneratedMSBuildEditorConfig.editorconfig
+F:\UDP data\obj\Debug\net8.0\UDP data.AssemblyInfoInputs.cache
+F:\UDP data\obj\Debug\net8.0\UDP data.AssemblyInfo.cs
+F:\UDP data\obj\Debug\net8.0\UDP data.csproj.CoreCompileInputs.cache
+F:\UDP data\obj\Debug\net8.0\UDP data.MvcApplicationPartsAssemblyInfo.cs
+F:\UDP data\obj\Debug\net8.0\UDP data.MvcApplicationPartsAssemblyInfo.cache
+F:\UDP data\obj\Debug\net8.0\staticwebassets.build.json
+F:\UDP data\obj\Debug\net8.0\staticwebassets.development.json
+F:\UDP data\obj\Debug\net8.0\staticwebassets\msbuild.UDP data.Microsoft.AspNetCore.StaticWebAssets.props
+F:\UDP data\obj\Debug\net8.0\staticwebassets\msbuild.build.UDP data.props
+F:\UDP data\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UDP data.props
+F:\UDP data\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UDP data.props
+F:\UDP data\obj\Debug\net8.0\staticwebassets.pack.json
+F:\UDP data\obj\Debug\net8.0\scopedcss\bundle\UDP data.styles.css
+F:\UDP data\obj\Debug\net8.0\UDP data.csproj.Up2Date
+F:\UDP data\obj\Debug\net8.0\UDP data.dll
+F:\UDP data\obj\Debug\net8.0\refint\UDP data.dll
+F:\UDP data\obj\Debug\net8.0\UDP data.pdb
+F:\UDP data\obj\Debug\net8.0\UDP data.genruntimeconfig.cache
+F:\UDP data\obj\Debug\net8.0\ref\UDP data.dll
